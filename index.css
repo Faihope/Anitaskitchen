@@ -118,6 +118,11 @@
     float: left;
     margin: 10px 0 10px 0;
     clear: none;
+    
+}
+#drink{
+    background-color: white;
+    padding-left: 2px 2px 2px 2px;
 }
 .customers{
     text-align: center;
