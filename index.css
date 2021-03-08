@@ -96,6 +96,7 @@
     display: flex;
     justify-content: center;
     float: left;
+    padding: none;
     }
 .food{
     height: 400px;
