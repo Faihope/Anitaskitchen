@@ -1,0 +1,197 @@
+
+.header{
+    height: 800px;
+    margin: auto;
+    border: 2px solid white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image:url("images/landing.jpg") ;
+    
+
+    
+}
+.footer{
+    background-color: #F15A29;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.logo{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.one{
+    background-color: whitesmoke;
+    color:grey;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    width: 400px;
+    
+    
+    
+}
+
+
+.two{
+    background-color:  #F15A29;
+    color:white;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    border: 1px solid white;
+    width: 400px;
+    }
+
+    .subscribe{
+      
+      background-image: url("images/subscribe.jpg"); 
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 400px;
+      color: white;
+      font: 700;
+      font-size: small;
+      text-align: center;
+      border-top: 15px solid whitesmoke;
+    }
+    
+
+    
+    .email{
+        font: 1em sans-serif;
+        color: white;
+        font-size: smaller;
+        padding: none;
+        
+        
+        
+    }
+    .ff{
+     
+     position: relative;
+     border: 0px;
+     padding-left: 300px;
+     background-color: white;
+    }
+    body{
+        
+    }
+
+    #breakfast{
+        height: 250px;
+        width: 25%;
+        
+    }
+    .firstfood.fastfood2{
+    border:none;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    }
+.food{
+    height: 400px;
+   background-color: white;
+    border: 2px solid white; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("images/foodsBg.jpg");
+}
+
+    
+
+
+#drink,#chicken,#rice,#fast{
+    color: #F15A29;
+    flex-direction: column-reverse;
+    border: none;
+    padding: 20px;
+    float: left;
+    margin: 10px 0 10px 0;
+    clear: none;
+}
+.customers{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: medium;
+}
+.logowhite{
+flex-direction: row-reverse;
+display: inline-block;
+}
+
+.column {
+    float: left;
+    width: 24.25%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .on{
+    
+      height: 250px;
+
+  }
+  .tw{
+      background-image: url("images/breakfast.jpg");
+      height: 250px;
+      background-size: cover;
+      color: white;
+      font-size: x-large;
+      text-align: center;
+  }
+  .thre{
+      background-image: url("images/lunch.jpg");
+      height: 250px;
+      background-size: cover;
+      color: white;
+      font-size: x-large;
+      
+    
+  }
+  .fou{
+      background-image: url("images/dinner.jpg");
+      height: 250px;
+      background-size: cover;
+      color: white;
+      font-size: x-large;
+  }
+  .column-split {
+    float: left;
+    width: 50%;
+  }
+  .chips{
+      height: 400px;
+      
+  }
+  .chicken{
+      height: 400px;
+    
+  }
+  .kuku{
+      height: 400px;
+      
+  }
+  .waru{
+      height: 400px;
+      
+  }
+  .all{
+float: inline-start;
+  }
+  .customers>h3{
+      color: #F15A29;
+  }
+  .Aboutmenu>h3{
+      color: #F15A29;
+  }
