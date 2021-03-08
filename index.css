@@ -46,6 +46,7 @@
     padding: 20px;
     border: 1px solid white;
     width: 400px;
+  
     }
 
     .subscribe{
@@ -149,6 +150,8 @@ display: inline-block;
       color: white;
       font-size: x-large;
       text-align: center;
+      
+     
   }
   .thre{
       background-image: url("images/lunch.jpg");
@@ -195,4 +198,7 @@ float: inline-start;
   }
   .Aboutmenu>h3{
       color: #F15A29;
+  }
+  .tw>p{
+    padding: 25% 25% 25% 25%;
   }
